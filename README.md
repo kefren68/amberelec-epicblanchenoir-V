@@ -1,6 +1,8 @@
+
+
 ## Screenshots
 
-##System View
+*System View*
 
 ![adventure](https://user-images.githubusercontent.com/75138922/113506258-ffaff080-9543-11eb-9dec-1fd47be16f73.jpg)
 ![amiga](https://user-images.githubusercontent.com/75138922/113506264-03437780-9544-11eb-9f2e-c567c5266cba.jpg)
@@ -11,13 +13,15 @@
 ![mame](https://user-images.githubusercontent.com/75138922/113506278-0e96a300-9544-11eb-8aa3-e7e5c94e545c.jpg)
 ![megadrive](https://user-images.githubusercontent.com/75138922/113506279-0fc7d000-9544-11eb-847a-63f54f34e0d4.jpg)
 ![nes](https://user-images.githubusercontent.com/75138922/113506281-12c2c080-9544-11eb-81a1-5b964792d4dc.jpg)
-![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)\
+![psx](https://user-images.githubusercontent.com/75138922/113506289-2110dc80-9544-11eb-98ec-846e94c840a5.jpg)
 
-##Video View
-![video](https://user-images.githubusercontent.com/75138922/113554884-47914f00-95fa-11eb-9630-a9851a6cdaf3.jpg)\
+*Video View*
 
-##Detailed View
-![gamelist](https://user-images.githubusercontent.com/75138922/113506290-22daa000-9544-11eb-8297-7cf590efa3af.jpg)
+![video](https://user-images.githubusercontent.com/75138922/113750636-5ddb0000-970b-11eb-94b2-0b9fc4eacfd8.jpg)
+
+*Detailed View*
+
+![gamelist](https://user-images.githubusercontent.com/75138922/113750633-5d426980-970b-11eb-84ae-ab7f09926bdf.jpg)
 
 
 
@@ -53,8 +57,11 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
-Many thanks to Chicuelo and Nick L for their great job.
-Many thanks, really, to Fewtarius for his 351ELEC OS for RG351P.
+I would like to thanks:
+Chicuelo and Nick L for their great job
+Anthony Caccese and Szalik for their support
+Many thanks, really, to Fewtarius and all contributors who made 351ELEC OS for RG351P.
+
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
@@ -107,6 +114,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ###### (backgrounds, controller images, descriptions) :
 
 3DO \
+AGS \
 Amstrad CPC \
 Atari 800 \
 Atari 2600 \
@@ -114,70 +122,84 @@ Atari 5200 \
 Atari 7800 \
 Atari Lynx \
 Atari ST \
-Apple 2 \
+Atomiswave \
 Commodore 16 \
 Commodore 64 \
 Commodore 128 \
 Commodore Vic20 \
 Commodore Amiga \
-Coco \
-ColecoVision \ 
+Commodore Amiga CD32\
+ColecoVision \
+CPS 1 \
+CPS 2 \
+CPS 3 \
 Daphne \
-Famicom & Super Famicom \ 
+EasyRPG \
+Famicom & Super Famicom \
+Final Burn Alpha \
+Final Burn Neo \
 Game & Watch \
 Intellivision \
-MAME \ 
+MAME \
+Media Player \
 MS-DOS \
-MSX & MSX 2 \
+MSX \
+MSX 2 \
 Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
+Neo Geo Pocket \
+Neo Geo Pocket Color \
 Nintendo 64 \
 Nintendo DS \
 Nintendo Entertainment System \
+Nintendo Entertainment System Hacks\
 Nintendo Gameboy \
-Nintendo Gameboy  Advance\
+Nintendo Gameboy Hacks\
+Nintendo Gameboy Advance\
+Nintendo Gameboy Advance Hacks\
 Nintendo Gameboy Color \
-Nintendo GameCube \
+Nintendo Gameboy Color Hacks\
 Nintendo SNES \
+Nintendo SNES Hacks\
 Nintendo SNES - MSU1 \
 Nintendo VirtualBoy \
+Odyssey2 \
+Openbor \
+PC \
 PC-Engine \
+PC-FX \
+Pico-8 \
+Pokemon mini \
+Ports \
+Psp minis \
 ScummVM \
 Sega Gamegear \
+Sega Gamegear Hacks\
 Sega Genesis \
+Sega Genesis Hacks\
 Sega Mastersystem \
 Sega Mega 32x & CD \
 Sega Megadrive \
+Sega Megadrive Japan\
 Sega Saturn \
+Sega SC-3000 \
 Sega SG-1000 \
 Sega Dreamcast \
 Sinclair ZX Spectrum \
 Sinclair ZX81 \
+Solarus \
 Sony Playstation \
 Sony PSP \
+Sufami \
 SuperGrafx \
+Tic-80 \
+Tools \
 TurboGrafx-16 \
+Uzebox \
 Vectrex \
+Videopac \
 Wonderswan \
 Wonderswan Color \
-Pico-8 \
-Tic-80 \
-AGS \
-Atomiswave \
-CPS 1 \
-CPS 2 \
-CPS 3 \
-Videopac \
-Odyssey \
-EasyRPG \
-Ports \
-Tools \
-Uzebox \
-x-68000 \
-Openbor \
-Pokemon mini \
-Psp minis \
-Solarus 
+x-68000
 
 ---
 
@@ -189,8 +211,13 @@ Arcade \
 Auto-allgames \
 Auto-favorites \
 Auto-lastplayed \
+Auto-neverplayed \
+Auto-2 players \
+Auto-4 players \
+Auto-retroachievements \
 Beat'em up \
 Custom \
+Doom \
 Platformers \
 Puzzle \
 Racing \
