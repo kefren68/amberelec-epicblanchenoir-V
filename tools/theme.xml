@@ -1,0 +1,20 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Tools</text>
+  </text>
+</view>    
+
+<view name="system">
+
+  <text name="shortdescription" extra="true">
+   <text>Useful Tools</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>A kit of tools</text>
+  </text>
+ </view>
+</theme>

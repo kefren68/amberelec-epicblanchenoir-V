@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Sinclair ZX Spectrum</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-bit Computer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Spectrum was among the first mainstream-audience home computers in the UK, similar in significance to the Commodore 64 in the USA</text>
+  </text>
+ </view>
+</theme>

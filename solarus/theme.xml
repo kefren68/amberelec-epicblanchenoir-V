@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Solarus</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>Zelda-like Game Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Solarus is a 2D game engine to create and play Zelda-like games.</text>
+  </text>
+ </view>
+</theme>

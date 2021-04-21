@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>SuFami Turbo</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1996  ·  Enhancing Cartridge</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The SuFami Turbo is an accessory released by Bandai for Nintendo's Super Famicom system. </text>
+  </text>
+ </view>
+</theme>
