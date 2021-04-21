@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Capcom System II</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  Arcade Board</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Arcade board that Capcom first used for Super Street Fighter II. It was the successor to their previous CPS.</text>
+  </text>
+ </view>
+</theme>

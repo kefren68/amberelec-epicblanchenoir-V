@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Daphne</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>Laserdisc Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs</text>
+  </text>
+ </view>
+</theme>

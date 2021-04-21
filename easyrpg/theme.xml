@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Easy RPG</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>RPG Maker</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Easy RPG is a software to easily create and play RPG games. It's compatible with RPG Maker games.</text>
+  </text>
+ </view>
+</theme>

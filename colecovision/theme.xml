@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+  <text name="nameLabel" extra="true">
+    <text>Coleco Vision</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>1982  ·  8-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600</text>
+  </text>
+ </view>
+</theme>
