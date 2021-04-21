@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Amiga CD32</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  32-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium.</text>
+  </text>
+ </view>
+</theme>

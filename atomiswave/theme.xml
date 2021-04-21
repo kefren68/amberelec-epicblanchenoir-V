@@ -1,0 +1,20 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Atomiswave</text>
+  </text>
+</view>    
+
+<view name="system">
+  
+  <text name="shortdescription" extra="true">
+   <text>2003  ·  32-bit Board</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's Dreamcast system board</text>
+  </text>
+ </view>
+</theme>
