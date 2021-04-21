@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Neo Geo CD</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  24-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Neo Geo Cd has the same Neo Geo hardware, converted to the cheaper CD format</text>
+  </text>
+ </view>
+</theme>

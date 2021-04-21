@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Open BOR</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>Fan-Made Port</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Open Beats of Rage is a fan-made tribute game to Sega's Streets of Rage series.</text>
+  </text>
+ </view>
+</theme>

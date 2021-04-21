@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>NEC PC-FX</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  32-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The PC-FX is a 32-bit home video game console developed by NEC and Hudson Soft. It was released in Japan in 1994 and discontinued in February 1998, as NEC's final home video game console.</text>
+  </text>
+ </view>
+</theme>
