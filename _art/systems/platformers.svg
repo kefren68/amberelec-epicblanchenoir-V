@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="platformers.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="362.8483"
+   height="34">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3871078"
+     inkscape:cx="90.612465"
+     inkscape:cy="40.876419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="103.22855"
+     y="145.23631"
+     id="text3045"><tspan
+       sodipodi:role="line"
+       id="tspan3043"
+       x="103.22855"
+       y="183.45665" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="53.780796"
+     y="60.104618"
+     id="text3049"><tspan
+       sodipodi:role="line"
+       id="tspan3047"
+       x="53.780796"
+       y="98.324959" /></text>
+  <g
+     aria-label="PLATFORMERS"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Motter Tektura';-inkscape-font-specification:'Motter Tektura Italic';letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none"
+     id="text3053"
+     transform="matrix(1.2977099,0,0,1.2977099,-31.168804,-46.273006)">
+    <path
+       d="m 68.465456,55.217435 h -4.96 l -1.04,6.04 h -7.6 l 4.4,-25 h 12 q 6.8,0 6.8,6.32 0,3 -0.84,5.44 -0.84,2.4 -1.88,3.84 -1,1.4 -2.8,2.4 -1.76,0.96 -4.08,0.96 z m -2.76,-12.56 -1.08,6.16 h 1.76 q 1.36,0 2.04,-0.28 0.72,-0.32 0.92,-1.4 0.52,-2.96 0.52,-3.24 0,-0.76 -0.6,-1 -0.6,-0.24 -1.8,-0.24 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3055"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 92.985454,61.257435 h -15.2 l 4.4,-25 h 7.6 l -3.28,18.6 h 7.6 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3057"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 98.505356,61.257435 h -8 l 10.520004,-25 h 11.76 l 1.76,25 h -8.04 l -0.16,-3.96 h -6.28 z m 6.840004,-17.32 -2.8,7 h 3.2 v -7 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3059"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 135.82526,42.657435 h -5.52 l -3.24,18.6 h -7.6 l 3.24,-18.6 h -5.48 l 1.16,-6.4 h 18.6 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3061"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 151.46518,51.977435 h -6.48 l -1.6,9.28 h -7.6 l 4.4,-25 h 15.6 l -2.12,6.4 h -7.04 l -0.56,3.36 h 6.48 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3063"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 164.54515,44.617435 -1.84,10.4 h 3.16 q 1.56,0 2.32,-0.36 0.76,-0.4 1,-1.76 l 1.84,-10.4 h -3.2 q -1.52,0 -2.28,0.4 -0.76,0.36 -1,1.72 z m 4.6,-8.96 q 5.08,0 7.24,2 2.16,1.96 2.16,6.08 0,4.12 -1.32,8.64 -1.28,4.48 -4.12,7 -2.8,2.48 -8.24,2.48 -5.4,0 -7.56,-1.96 -2.16,-2 -2.16,-6.12 0,-1.96 0.56,-5.16 0.56,-3.24 1.48,-5.56 0.92,-2.36 2.48,-4.08 3,-3.32 9.48,-3.32 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3065"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 200.50512,61.257435 h -8.36 l -1.84,-7.44 h -1.64 l -1.28,7.44 h -7.6 l 4.4,-25 h 12 q 6.84,0 6.84,6.12 0,2.52 -0.76,4.8 -1.4,4.32 -4.4,5.76 z m -9.88,-18.6 -0.88,5 h 1.76 q 1.36,0 2.04,-0.28 0.72,-0.32 0.96,-1.72 0.28,-1.44 0.28,-1.76 0,-0.8 -0.64,-1 -0.6,-0.24 -2,-0.24 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3067"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 210.94508,61.257435 h -7.92 l 5.84,-25 h 9.92 l 0.72,12.72 h 0.28 l 5.2,-12.72 h 9.92 l -2.96,25 h -7.96 l 1.68,-12.12 h -0.28 l -5,12.12 h -5.8 l -0.84,-12.12 h -0.2 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3069"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 253.02504,51.817435 h -7.6 l -0.52,3.04 h 9.32 l -1.12,6.4 h -16.92 l 4.4,-25 h 16.72 l -2.08,6.4 h -8.2 l -0.56,3.36 h 7.6 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3071"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 278.10499,61.257435 h -8.36 l -1.84,-7.44 h -1.64 l -1.28,7.44 h -7.6 l 4.4,-25 h 12 q 6.84,0 6.84,6.12 0,2.52 -0.76,4.8 -1.4,4.32 -4.4,5.76 z m -9.88,-18.6 -0.88,5 h 1.76 q 1.36,0 2.04,-0.28 0.72,-0.32 0.96,-1.72 0.28,-1.44 0.28,-1.76 0,-0.8 -0.64,-1 -0.6,-0.24 -2,-0.24 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3073"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 280.62495,60.817435 2.24,-6.6 q 3.36,0.92 6.16,0.92 2.8,0 4.52,-0.24 l 0.32,-2 -3.32,-0.32 q -3.8,-0.36 -5.4,-1.72 -1.56,-1.36 -1.56,-3.84 0,-1.08 0.24,-2.4 0.92,-5.12 3.32,-7.04 2.44,-1.92 7.52,-1.92 5.08,0 8.96,1 l -2.08,6.4 q -3.48,-0.6 -5.6,-0.6 -2.12,0 -3.6,0.2 l -0.32,1.96 2.68,0.28 q 4.08,0.44 5.8,1.96 1.72,1.48 1.72,4 0,2.56 -1.12,5.28 -0.56,1.4 -1.24,2.36 -0.64,0.92 -1.68,1.6 -1,0.64 -1.84,1 -0.84,0.32 -2.12,0.48 -1.88,0.28 -4.6,0.28 -4.96,0 -9,-1.04 z"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Changa One';-inkscape-font-specification:'Changa One Italic';fill:#aa0000"
+       id="path3075"
+       inkscape:connector-curvature="0" />
+  </g>
+  <rect
+     style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.99040794;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3078"
+     width="13.888031"
+     height="3.4525633"
+     x="0"
+     y="29.351233" />
+  <rect
+     style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.62041283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3078-9"
+     width="9.5339508"
+     height="3.4525633"
+     x="14.159074"
+     y="22.389442" />
+  <rect
+     style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.62041283;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3078-9-7"
+     width="9.5339508"
+     height="3.4525633"
+     x="2.3084056"
+     y="13.065999" />
+  <rect
+     style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.8721056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3078-9-76"
+     width="13.479836"
+     height="3.4525633"
+     x="26.255848"
+     y="5.5824208" />
+</svg>
