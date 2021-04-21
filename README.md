@@ -26,7 +26,7 @@
 
 
 
-## EpicBlancheNoir 351ELEC Theme
+## EpicBlancheNoir-V 351ELEC Theme for RG351V
 
 This is a theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 This theme has been designed for 351ELEC, particulary for the black and white version of RG351P.
