@@ -139,9 +139,12 @@ Famicom & Super Famicom \
 Final Burn Alpha \
 Final Burn Neo \
 Game & Watch \
+Imageviewer \
 Intellivision \
+J2me \
 MAME \
 Media Player \
+Megaduck \
 MS-DOS \
 MSX \
 MSX 2 \
@@ -171,6 +174,7 @@ Pico-8 \
 Pokemon mini \
 Ports \
 Psp minis \
+Satellaview \
 ScummVM \
 Sega Gamegear \
 Sega Gamegear Hacks\
@@ -191,6 +195,7 @@ Sony Playstation \
 Sony PSP \
 Sufami \
 SuperGrafx \
+Supervision \
 Tic-80 \
 Tools \
 TurboGrafx-16 \
@@ -224,7 +229,8 @@ Racing \
 RPG \
 Shoot'em up \
 Sports \
-Strategy 
+Strategy \
+Wolfenstein 3D
 
 ---
 
