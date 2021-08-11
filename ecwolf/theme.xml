@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Wolfenstein 3D</text>
+    </text>
+</view>    
+
+<view name="system">  
+    <text name="shortdescription" extra="true">
+    <text>Videogame</text>
+    </text>
+    <text name="longdescription" extra="true">
+    <text>Wolfenstein 3D is a first-person shooter video game developed by id Software and published by Apogee Software and FormGen, originally released on May 5, 1992 for DOS.</text>
+    </text>
+</view>
+</theme>

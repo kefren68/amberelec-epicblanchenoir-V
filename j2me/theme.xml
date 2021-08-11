@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>J2ME</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>Java ME Emulator</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>J2ME (Java 2 Platform, Micro Edition) is a technology that allows programmers to use the Java programming language and related tools to develop programs for mobile.</text>
+  </text>
+ </view>
+</theme>

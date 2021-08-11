@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Image Viewer</text>
+  </text>
+</view>    
+
+<view name="system">  
+  <text name="shortdescription" extra="true">
+   <text>Image Viewer</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Show your screenshots</text>
+  </text>
+ </view>
+</theme>

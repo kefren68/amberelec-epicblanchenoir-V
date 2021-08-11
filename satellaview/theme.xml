@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video">
+    <text name="nameLabel" extra="true">
+    <text>Satellaview</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>1995  ·  Satellite Modem</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Satellaview is a satellite modem peripheral produced by Nintendo for the Super Famicom in 1995.</text>
+  </text>
+ </view>
+</theme>
